@@ -62,7 +62,7 @@ GEM
     faraday_middleware-parse_oj (0.2.1)
       faraday_middleware (~> 0.8)
       oj (~> 2.0)
-    ffi (1.9.0)
+    ffi (1.11.3)
     haml (4.0.3)
       tilt
     haml-rails (0.4)
